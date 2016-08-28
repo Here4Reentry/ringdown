@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="man">Calling volunteer number 1 now.</Say>
+    <Dial timeout="10" callerId="555-666-7777" hangupOnStar="true" action="call_002.xml" method="GET">555-666-7777</Dial>
+</Response>

@@ -1,0 +1,7 @@
+<Response>
+    <!-- action url receives the selection -->
+    <Gather action="category_intro.xml" method="GET" numDigits="1">
+        <Say voice="man">Press 1 for Housing. Press 2 for Money. Press 3 for Food</Say>
+    </Gather>
+    <Redirect method="GET">menu.xml</Redirect>
+</Response>

@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="man">Sorry, no one is answering right now. That was the last volunteer for Housing on this list. If you would like to returning to main menu please stay on the line.</Say>
+    <Redirect method="GET">menu.xml</Redirect>
+</Response>
