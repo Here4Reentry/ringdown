@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <!--<Redirect method="GET">call_001.xml</Redirect>-->
+
+    <Say voice="man">Welcome to, Here For Reentry Ring Down. This is a volunteer based community helpline.
+    What kind of help are you looking for?</Say>
+    <Redirect method="GET">menu.xml</Redirect>
+</Response>

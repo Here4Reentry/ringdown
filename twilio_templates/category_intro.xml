@@ -1,0 +1,4 @@
+<Response>
+    <Say voice="man">Ok, Housing. There are 45 volunteers who can help to get you connected with Housing. These are all volunteers so please remember the golden rule.</Say>
+    <Redirect method="GET">call_001.xml</Redirect>
+</Response>
